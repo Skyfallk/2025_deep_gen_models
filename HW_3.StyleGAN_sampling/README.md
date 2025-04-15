@@ -1,9 +1,12 @@
 # ДЗ 3. Sampling в латентном пространстве StyleGAN
 
+### [Colob notebook](https://drive.google.com/file/d/1dp9JwFvy1O8maxtbVusWVAAnf5Hmpyak/view?usp=sharing) 
+
 Для ДЗ надо взять **4-6 персонажей**, в наборе должны быть хотя бы 2 фото с разными поворотами головы помимо смотрящих прямо
 
 
 ## Подготовительные работы
+
 
 Первый пункт отчета:
 
